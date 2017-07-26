@@ -1,0 +1,16 @@
+header {
+	margin-top: 10px;
+}
+
+.carousel-inner {
+	height: 500px;
+}
+
+.slider {
+	margin-bottom: 2%;
+}
+
+.absolute-right {
+	position: absolute;
+	right: 0;
+}
